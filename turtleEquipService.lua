@@ -1,6 +1,6 @@
 --@requires log
 --@requires turtleController
---@requires settingsService
+--@requires settingsManager
 --@requires turtleResourceManager
 
 ---@class Log
